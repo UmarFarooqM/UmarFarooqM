@@ -32,9 +32,6 @@
   <a href="https://www.linkedin.com/in/umarfarooqm/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://github.com/UmarFarooqM" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="30" width="40" />
-  </a>
   <a href="https://leetcode.com/u/ifYQ33TD5T/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
   </a>
@@ -49,25 +46,29 @@
 
 ---
 
+
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UmarFarooqM&theme=onedark&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=UmarFarooqM&theme=radical&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
+  <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=UmarFarooqM&show_icons=true&theme=radical" height="165" />
+  
+  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=UmarFarooqM&theme=radical" height="165" />
 </p>
 
 <p align="center">
+  <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmarFarooqM&layout=compact&theme=radical" />
 </p>
 
 ---
-
 <!-- Extra Coding GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400px" />
