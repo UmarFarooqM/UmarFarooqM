@@ -22,14 +22,14 @@
 - 🌱 I’m currently learning **System Design & Advanced Frontend**
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 - 📄 Check out my resume: [Click Here](https://drive.google.com/file/d/1rLoVH206aB_d9n2j1bCvE3DN1BbLcD0j/view?usp=sharing)
-- 📫 Reach me at **m.umarfarooq@gmail.com** 
+- 📫 Reach me at **m.umarfarooq1175@gmail.com** 
 - ⚡ Fun fact: **I love solving coding challenges**
 
 ---
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://linkedin.com/in/umarfarooq" target="blank">
+  <a href="https://www.linkedin.com/in/umarfarooqm/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
   <a href="https://github.com/UmarFarooqM" target="blank">
